@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/javaKamp/%20ShoppingCenterRegistrationSystem/src/shoppingCenterRegistrationSystem01/business/concretes/CostumerCheckManagerWithInfo.java</file>
+            <file>file:/C:/javaKamp/%20ShoppingCenterRegistrationSystem/src/shoppingCenterRegistrationSystem01/business/concretes/CostumerRregistrationSystemWithEmail.java</file>
+            <file>file:/C:/javaKamp/%20ShoppingCenterRegistrationSystem/src/shoppingCenterRegistrationSystem01/business/abstracts/CostumerRegistrationSystem.java</file>
+            <file>file:/C:/javaKamp/%20ShoppingCenterRegistrationSystem/src/shoppingCenterRegistrationSystem01/business/abstracts/CostumerCheckManagerService.java</file>
+            <file>file:/C:/javaKamp/%20ShoppingCenterRegistrationSystem/src/shoppingCenterRegistrationSystem01/business/abstracts/CheckManagerService.java</file>
+            <file>file:/C:/javaKamp/%20ShoppingCenterRegistrationSystem/src/shoppingCenterRegistrationSystem01/business/abstracts/CostumerLoginService.java</file>
+            <file>file:/C:/javaKamp/%20ShoppingCenterRegistrationSystem/src/shoppingCenterRegistrationSystem01/business/abstracts/RegistrationSystemService.java</file>
+            <file>file:/C:/javaKamp/%20ShoppingCenterRegistrationSystem/src/shoppingCenterRegistrationSystem01/entities/concretes/Costumer.java</file>
+            <file>file:/C:/javaKamp/%20ShoppingCenterRegistrationSystem/src/shoppingCenterRegistrationSystem01/business/abstracts/VerificationService.java</file>
+            <file>file:/C:/javaKamp/%20ShoppingCenterRegistrationSystem/src/shoppingCenterRegistrationSystem01/business/abstracts/LoginService.java</file>
+            <file>file:/C:/javaKamp/%20ShoppingCenterRegistrationSystem/src/shoppingCenterRegistrationSystem01/entities/abstracts/Entities.java</file>
+            <file>file:/C:/javaKamp/%20ShoppingCenterRegistrationSystem/src/shoppingCenterRegistrationSystem01/business/concretes/Checker.java</file>
+            <file>file:/C:/javaKamp/%20ShoppingCenterRegistrationSystem/src/shoppingCenterRegistrationSystem01/Main.java</file>
+            <file>file:/C:/javaKamp/%20ShoppingCenterRegistrationSystem/src/shoppingCenterRegistrationSystem01/business/abstracts/EmailVerificationService.java</file>
+            <file>file:/C:/javaKamp/%20ShoppingCenterRegistrationSystem/src/shoppingCenterRegistrationSystem01/business/abstracts/CostumerRegistrationBase.java</file>
+            <file>file:/C:/javaKamp/%20ShoppingCenterRegistrationSystem/src/shoppingCenterRegistrationSystem01/business/concretes/EmailVerificationManager.java</file>
+            <file>file:/C:/javaKamp/%20ShoppingCenterRegistrationSystem/src/shoppingCenterRegistrationSystem01/business/concretes/CostumerRegistrationSystemWithGoogleAcount.java</file>
+            <file>file:/C:/javaKamp/%20ShoppingCenterRegistrationSystem/src/shoppingCenterRegistrationSystem01/business/concretes/CostumerLoginManager.java</file>
+        </group>
+    </open-files>
+</project-private>
